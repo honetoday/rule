@@ -1,0 +1,10 @@
+(torrent|\.torrent|peer_id=|info_hash|get_peers|find_node|BitTorrent|announce_peer|announce\.php\?passkey=)
+(api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shifen)\.com
+(.+\.|^)(360|so)\.(cn|com)
+(Subject|HELO|SMTP)
+(^.*\@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168)\.(info|biz|com|de|net|org|me|la)
+(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
+.*bank.*
+(.*\.||)(gash)\.(com|tw)
+(.*\.||)(mycard)\.(com|tw)
+(.*\.||)(dafahao|minghui|dongtaiwang|falundafa|wujieliulan|zhengjian)\.(org|com|net)
